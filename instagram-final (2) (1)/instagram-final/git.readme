@@ -1,0 +1,40 @@
+GIT is a version control system
+What? Why?
+
+GIT Repository - project, where people are collaborating and working together
+for example, in our case, our Instagram-Clone-CodeBase could be a git repo
+
+
+Github - It is a place, where you can host your git repo. 
+Github/ GitLab are a few example where git repositries are hosted. 
+
+
+
+In git, You commit your changes.
+for example, today we added interactivability for our icons
+I'll make a commit of all the changes I have done, and submit. 
+
+
+Git repo --> Your CodeBase
+
+Git branch? 
+
+You create your branch from the master/ main branch
+Do your commit on your branch
+And merge/add it to the main branch
+
+Why we need a master branch?
+Because 100s of developer can have their own number of branches
+You need a single branch, which everyone can refer to
+
+
+
+
+SignUp on Github.
+Create a repo. 
+
+What is Clone? 
+Clone means copying the code from the git repo to your local machine.
+
+https://github.com/AbhinandanKainth/Sparta-IG-Clone
+
